@@ -1,0 +1,15 @@
+{
+  "name": "browsersync-body-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Outlining an issue I have with Browsersync for a bug report",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "F1LT3R",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.18.8"
+  }
+}
